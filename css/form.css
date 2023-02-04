@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(255, 255, 255);
+    
+}
+.our-team {
+    text-align: center;
+    margin-top: 100px;
+    color: #eee;
+    padding-bottom: 50px;
+    cursor: pointer;
+    }
+    .our-team h1 {
+        color: rgb(245, 84, 165);
+        font-size: 50px;
+    }
+    .our-team p {
+        margin-bottom: 50px;
+    }
+    .name {
+        margin-top: 20px;
+        color: rgb(255, 145, 0);
+        text-align: center;
+    }
+    .position {
+        font-size: 22px;
+        color: chocolate;
+    } .card-footer a i {
+        font-size: 30px;
+    }
+    .social{
+        display: flex;
+        justify-content: space-around;
+        font-size: 30px;
+    }
+    .bro {
+        color: black;
+    }
+    .broo {
+        color: rgb(207, 195, 16);
+        text-align: center;
+        color: white;
+        margin-top: 20px;
+    }
+    .h1 {
+        text-align: center;
+        color: rgb(192, 38, 115);
+        margin-top: 20px;
+    }
+    .kayit {
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-left: 500px;
+        width: 1000px;
+    }
+    .statistics{
+        padding-top: 75px;
+        padding-bottom: 75px;
+        background-image: url(../img/ruya.png);
+        
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        margin-bottom: 150px;
+    }
+    

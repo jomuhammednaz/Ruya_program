@@ -1,0 +1,110 @@
+
+.our-features{
+    margin-top: 100px;
+    text-align: center;
+}
+.our-features h1 {
+    color: darkgoldenrod;
+    font-size: 50px;
+}
+.our-features p {
+    margin-bottom: 50px;
+}
+.our-features i {
+    background-color: rgb(53, 231, 61);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    font-size: 50px;
+    color: aliceblue;
+    line-height: 100px;
+}
+.our-features .one-features {
+    border: 1px solid  rgb(7, 102, 245);
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #eee;
+    cursor: pointer;
+}
+.our-features .one-features:hover {
+    border: 1px solid rgb(248, 1, 1);
+}
+.our-team {
+    text-align: center;
+    margin-top: 100px;
+    color: #eee;
+    padding-bottom: 50px;
+    cursor: pointer;
+    }
+    .our-team h1 {
+        color: rgb(245, 84, 165);
+        font-size: 50px;
+    }
+    .our-team p {
+        margin-bottom: 50px;
+    }
+    .name {
+        margin-top: 20px;
+        color: chartreuse;
+    }
+    .position {
+        font-size: 22px;
+        color: chocolate;
+    }
+    .card-footer a i {
+        font-size: 30px;
+    }
+    .social{
+        display: flex;
+        justify-content: space-around;
+        font-size: 30px;
+    }
+    .bro {
+        color: black;
+    }
+    .broo {
+        color: rgb(207, 195, 16);
+    }
+   .foter1 {
+    margin-left: 50px;
+   }
+   .foter2 {
+    margin-right: 200px;
+   }
+   .statistics{
+    padding-top: 75px;
+    padding-bottom: 75px;
+    background-image: url(../img/ruya.png);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-bottom: 150px;
+}
+
+.h5 {
+    color: rgb(255, 255, 255);
+    
+}
+.h6 {
+    color: orange;
+    font-size: large;
+
+}
+.p {
+    color: rgb(170, 39, 111);
+  font-size: large;
+  background-color: bisque;
+
+}
+.write {
+   
+    width: 500px;
+    margin-left: 190px;
+    padding: 5px;
+    font-size: large;
+    
+}
+.footer{
+    background-color: black;
+}

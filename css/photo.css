@@ -1,0 +1,65 @@
+.our-team {
+    text-align: center;
+    margin-top: 100px;
+    color: #eee;
+    padding-bottom: 50px;
+    cursor: pointer;
+    }
+    .our-team h1 {
+        color: rgb(245, 84, 165);
+        font-size: 50px;
+    }
+    .our-team p {
+        margin-bottom: 50px;
+    }
+    .name {
+        margin-top: 20px;
+        color: chartreuse;
+    }
+    .position {
+        font-size: 22px;
+        color: chocolate;
+    }
+    .card-footer a i {
+        font-size: 30px;
+    }
+    .social{
+        display: flex;
+        justify-content: space-around;
+        font-size: 30px;
+    }
+    .bro {
+        color: black;
+    }
+    .broo {
+        color: rgb(207, 195, 16);
+    } .statistics{
+        padding-top: 75px;
+        padding-bottom: 75px;
+        background-image: url(../img/ruya.png);
+        
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        margin-bottom: 150px;
+    }
+    
+    .eye {
+        font-size: large;
+        color: red;
+    }
+    .card {
+        background-color: #eee;
+    }
+    .h11 {
+        color: red;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .h55 {
+        color: black;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
